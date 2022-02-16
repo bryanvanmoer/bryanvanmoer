@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![Design and Development](https://github.com/bryanvanmoer/bryanvanmoer/blob/main/HeaderGithub.png)
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
