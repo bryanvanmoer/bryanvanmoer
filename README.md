@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/bryanvanmoer/bryanvanmoer/blob/main/HeaderGithub.png)
+![Design and Development](https://github.com/bryanvanmoer/bryanvanmoer/blob/main/Header.svg)
 
 ### Hi there 👋
 
