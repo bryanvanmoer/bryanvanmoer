@@ -10,6 +10,7 @@ I'm also interested in UI, UX and design in general.
 - Java
 - HTML, CSS
 - Javascript
+- PHP
 - SQL
 - C
 - Python
