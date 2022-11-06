@@ -16,9 +16,5 @@ I'm also interested in UI, UX and design in general.
 - Python
 - Flutter
 
-### Expectations
-
-- 👯 I’m looking to collaborate on blockchain technology.
-- 🤔 I’m looking for help with Solidity.
 - 📫 How to reach me: bryan.vanmoer51@hotmail.com
 
