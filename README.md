@@ -9,11 +9,11 @@ I'm also interested in UI, UX and design in general.
 
 - Java
 - HTML, CSS
-- Javascript
-- PHP
+- Javascript (React / React Native / Vue)
+- PHP (Laravel)
 - SQL
 - C
-- Python
+- Python (Flask)
 - Flutter
 
 - 📫 How to reach me: bryan.vanmoer51@hotmail.com
