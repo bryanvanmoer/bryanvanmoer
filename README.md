@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/bryanvanmoer/bryanvanmoer/blob/main/banner.svg)
+![Design and Development](https://github.com/bryanvanmoer/bryanvanmoer/blob/main/Header.svg)
 
 ### Programming languages
 
